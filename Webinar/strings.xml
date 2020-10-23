@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FORM PENDAFTARAN WEBINAR</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki - Laki</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="line">Line</string>
+    <string name="dosen">Dosen</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="umum">Umum</string>
+    <string name="nama_lengkap_beserta_gelar">Nama Lengkap (Beserta Gelar) :</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="status_pendidikan">Status Pendidikan :</string>
+    <string name="mendapat_informasi_webinar_dari">Mendapat informasi Webinar dari :</string>
+    <string name="line_aktif">Line aktif :</string>
+    <string name="no_telp_whatsapp">No. Telp / WhatsApp :</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+</resources>
